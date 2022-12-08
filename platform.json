@@ -51,14 +51,14 @@
     "framework-cmsis-at32f40": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~1.0.0"
+      "owner": "martinloren",
+      "version": "https://github.com/martinloren/framework-cmsis-at32f40.git"
     },
     "framework-cmsis-at32f43": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~1.0.0"
+      "owner": "martinloren",
+      "version": "https://github.com/martinloren/framework-cmsis-at32f43.git"
     },    
     "tool-openocd": {
       "type": "uploader",
@@ -100,8 +100,8 @@
     },
     "tool-ldscripts-at32": {
       "optional": true,
-      "owner": "platformio",
-      "version": "~0.1.1"
+      "owner": "martinloren",
+      "version": "https://github.com/martinloren/tool-ldscripts-at32.git"
     }
   }
 }
