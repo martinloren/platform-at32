@@ -8,7 +8,4 @@ The AT32 family of 32-bit Flash MCUs based on the ARM Cortex-M processor is desi
 * [Documentation](http://docs.platformio.org/page/platforms/ststm32.html) (advanced usage, packages, boards, frameworks, etc.)
 
 ## How to use
-
-See example projects at https://github.com/CommunityGD32Cores/gd32-pio-projects. 
-
 The platform can be installed manually using `pio platform install https://github.com/martinloren/platform-at32.git` on [the CLI](https://docs.platformio.org/en/latest/integration/ide/vscode.html#platformio-core-cli). 
